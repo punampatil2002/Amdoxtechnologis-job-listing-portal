@@ -133,3 +133,7 @@ Frontend runs on → **http://localhost:5173**
 | Auth      | JWT, bcryptjs                   |
 | Storage   | Multer (Local File System)      |
 | Dev       | nodemon                         |
+
+Submitted by Poonam Patil
+
+
