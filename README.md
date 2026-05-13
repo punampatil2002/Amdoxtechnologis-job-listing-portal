@@ -134,6 +134,6 @@ Frontend runs on → **http://localhost:5173**
 | Storage   | Multer (Local File System)      |
 | Dev       | nodemon                         |
 
-Submitted by Poonam Patil
+Developed by poonam patil
 
 
